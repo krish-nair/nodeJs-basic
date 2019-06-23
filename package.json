@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-basic",
+  "version": "1.0.0",
+  "description": "nodeJs-basics",
+  "main": "app.js",
+  "scripts": {
+    "devrun": "nodemon app.js"
+  },
+  "author": "Krish Nair",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
